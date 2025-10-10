@@ -88,4 +88,9 @@
 - LinkedIn: **linkedin.com/in/adi-xxxx** *(opsional)*  
 - Portfolio/Notion: **bit.ly/portfolio-adi** *(opsional)*
 
-> “Ship first, iterate fast.”  
+> “Ship first, iterate fast.”
+
+## 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adii83/adii83/output/dist/snake.svg" alt="Snake animation" />
+</p>
