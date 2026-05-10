@@ -137,32 +137,6 @@ Projects exploring frontend development, web applications, mobile apps, and prac
 
 ---
 
-## 🏆 Boss Projects
-
-<div align="center">
-
-<a href="https://github.com/adii83/school-alumni-scrapper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adii83&repo=school-alumni-scrapper&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/adii83/AI-Study-Companion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adii83&repo=AI-Study-Companion&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/adii83/GameHub-Tools">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adii83&repo=GameHub-Tools&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/adii83/AlumniQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adii83&repo=AlumniQ&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> Note: These project cards use an external service. If they do not appear sometimes, the manual project links above will still work.
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -175,31 +149,6 @@ Projects exploring frontend development, web applications, mobile apps, and prac
 
 ---
 
-## 🗺️ Current Roadmap
-
-```text
-[✓] Build more practical projects
-[✓] Explore Python automation
-[✓] Create custom game utility tools
-[✓] Try AI-assisted systems
-[ ] Improve project documentation
-[ ] Make cleaner README files for important repositories
-[ ] Learn better team workflow with GitHub Pull Requests
-[ ] Build more polished full-stack applications
-```
-
----
-
-## 🎯 Development Values
-
-- Build tools that are actually useful
-- Keep project structure clean and understandable
-- Write documentation that helps other people understand the project
-- Learn by building real things
-- Improve collaboration using Git and GitHub
-- Keep experimenting, but make every project better than the previous one
-
----
 
 ## 📡 Connect
 
